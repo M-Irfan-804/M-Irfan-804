@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:334155&height=180&section=header&text=Irfan&fontSize=42&fontColor=ffffff" />
 </p>
